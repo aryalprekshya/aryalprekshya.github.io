@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "./static/css/main.294637ee.chunk.css",
+    "main.js": "./static/js/main.bb70fcad.chunk.js",
+    "main.js.map": "./static/js/main.bb70fcad.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.2515e70d.js",
+    "runtime-main.js.map": "./static/js/runtime-main.2515e70d.js.map",
+    "static/js/2.5676ce71.chunk.js": "./static/js/2.5676ce71.chunk.js",
+    "static/js/2.5676ce71.chunk.js.map": "./static/js/2.5676ce71.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.8316c4e40b4f7eee3d6905d1132cfc2b.js": "./precache-manifest.8316c4e40b4f7eee3d6905d1132cfc2b.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.294637ee.chunk.css.map": "./static/css/main.294637ee.chunk.css.map",
+    "static/js/2.5676ce71.chunk.js.LICENSE.txt": "./static/js/2.5676ce71.chunk.js.LICENSE.txt",
+    "static/media/Rlogo.png": "./static/media/Rlogo.61ab737f.png",
+    "static/media/bootstrap.svg": "./static/media/bootstrap.5a94bc46.svg",
+    "static/media/css.svg": "./static/media/css.84213655.svg",
+    "static/media/firebase1.svg": "./static/media/firebase1.09e82ed9.svg",
+    "static/media/html.svg": "./static/media/html.565c9a1f.svg",
+    "static/media/js.svg": "./static/media/js.48986f19.svg",
+    "static/media/mongodb.svg": "./static/media/mongodb.7f39ffdd.svg",
+    "static/media/mysql.svg": "./static/media/mysql.9cdf36a1.svg",
+    "static/media/react.svg": "./static/media/react.2c6ab729.svg",
+    "static/media/restaurant_logo.png": "./static/media/restaurant_logo.1dba7559.png",
+    "static/media/restro.png": "./static/media/restro.05e4be35.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2515e70d.js",
+    "static/js/2.5676ce71.chunk.js",
+    "static/css/main.294637ee.chunk.css",
+    "static/js/main.bb70fcad.chunk.js"
+  ]
+}
