@@ -88,7 +88,7 @@ export default function About() {
 
         <Description>
           <SubDescription>
-            I am a Front End Developer, residing in Canada. Currently I am doing
+            I am a front-end Developer, residing in Canada. Currently I am doing
             an internship in one of the startup company of Toronto - Omadatek.
             In Omadatek, I mostly work with React JS along with styling
             frameworks such as Bootstrap, Material-UI. For the backend, I work
@@ -97,7 +97,7 @@ export default function About() {
 
           <SubDescription>
             I completed my Post-Graduate in Information Technology Solutions
-            from Humber College in 2020 August. And since October, I am
+            from Humber College in 2020, August. And since October, I am
             associated with Omadatek.
           </SubDescription>
         </Description>

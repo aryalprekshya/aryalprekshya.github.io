@@ -92,7 +92,7 @@ function NavBar() {
     var elementPosition = element.offsetTop;
 
     window.scrollTo({
-      top: elementPosition - 90,
+      top: elementPosition - 80,
       behavior: "smooth",
     });
   };
